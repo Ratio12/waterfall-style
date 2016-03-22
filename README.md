@@ -1,7 +1,7 @@
-# waterfall-style-in-CSS3-jQuery-JavaScript
+# waterfall style
 
-CSS3
+* CSS3
 
-jQuery
+* JavaScript
 
-JavaScript
+* jQuery
